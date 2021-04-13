@@ -7,7 +7,7 @@
 * Print each one. Use each kind of loop (index-based, range-based, iterator-based) at least once. Restore the stack so it is unchanged.
 
 ## Part II: Algorithms exercise
-* Implement three of the functions in [\<algorithm\>](https://www.cplusplus.com/reference/algorithm/)
+* Implement three of the functions in [\<algorithm\>](https://www.cplusplus.com/reference/algorithm/) (not ones that we have implemented in class)
 * Make a copy of one of the containers you filled in Part I.
 * Call each of the algorithms you implemented on one of the containers. Call the corresponding STL algorithm on the other container. 
 Each time, show that your implementation works the same as the STL implementation. The sequence should be

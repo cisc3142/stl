@@ -18,3 +18,4 @@ Each time, show that your implementation works the same as the STL implementatio
    - call std::f2 on container B
    - show that A and B are the same
    - etc.
+ * Make sure that your implementation is generic.
